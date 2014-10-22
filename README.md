@@ -1,7 +1,7 @@
 DailyDilbert
 ============
 
-Simple shell script to grab the daily comic strip from dilbert.com
+Simple shell script to grab the daily comic strip from http://dilbert.com
 
 This scripts extracts the current daily Dilber comic strip from http://dilbert.com and saves it to `/tmp/dilbert.gif`
 
