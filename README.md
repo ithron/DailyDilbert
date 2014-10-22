@@ -8,4 +8,4 @@ This scripts extracts the current daily Dilber comic strip from http://dilbert.c
 Autorun on Gnome 3
 ------------------
 
-Put Dilbert.desktop into your `.config/autorun` folder to have the script run every time you log into your Gnome desktop.
+Put [dilbert.desktop](https://github.com/ithron/DailyDilbert/blob/master/dilbert.desktop) into your `.config/autostart` folder to have the script run every time you log into your Gnome desktop.
